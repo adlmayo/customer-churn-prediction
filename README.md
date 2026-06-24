@@ -1,4 +1,4 @@
-# Customer Churn Prediction
+# Customer churn prediction
 
 ## Overview
 This project predicts whether a customer is likely to leave a telecom service using Machine Learning. It includes data preprocessing, exploratory data analysis (EDA), feature encoding, handling class imbalance with SMOTE, model training, hyperparameter tuning, and model evaluation.
