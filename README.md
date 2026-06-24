@@ -46,6 +46,3 @@ The dataset contains customer demographic information, account details, and serv
 
 ## Results
 The project compares multiple machine learning models and selects the best-performing model based on evaluation metrics.
-
-## Author
-Muhammad Adeel Qasim
